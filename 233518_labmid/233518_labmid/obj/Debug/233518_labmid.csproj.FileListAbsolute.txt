@@ -1,0 +1,8 @@
+C:\Users\233518\source\repos\233518_labmid\233518_labmid\bin\Debug\233518_labmid.exe.config
+C:\Users\233518\source\repos\233518_labmid\233518_labmid\bin\Debug\233518_labmid.exe
+C:\Users\233518\source\repos\233518_labmid\233518_labmid\bin\Debug\233518_labmid.pdb
+C:\Users\233518\source\repos\233518_labmid\233518_labmid\obj\Debug\233518_labmid.csproj.AssemblyReference.cache
+C:\Users\233518\source\repos\233518_labmid\233518_labmid\obj\Debug\233518_labmid.csproj.SuggestedBindingRedirects.cache
+C:\Users\233518\source\repos\233518_labmid\233518_labmid\obj\Debug\233518_labmid.csproj.CoreCompileInputs.cache
+C:\Users\233518\source\repos\233518_labmid\233518_labmid\obj\Debug\233518_labmid.exe
+C:\Users\233518\source\repos\233518_labmid\233518_labmid\obj\Debug\233518_labmid.pdb
